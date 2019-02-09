@@ -55,6 +55,7 @@ int main(){
                 cout << "break; "<<endl; 
 
         }
+        break;
     }
     return 0;
 }
